@@ -1,0 +1,59 @@
+body {
+background-color: burlywood ;
+text-align: center ;
+color: darkslategray ;
+}
+#welcome_to_111 {
+background-color: darkseagreen ;
+text-decoration-color: aquamarine ;
+height: 50% ;
+width: 100% ;
+}
+h1 {
+color: aliceblue ;
+font-family: fantasy ;
+font-style: oblique ;
+}
+p {
+background-color: black;
+color: blue ;
+text-align: justify ;
+} 
+#bio_111 {
+background-color: darkseagreen ;
+text-decoration-color: aquamarine ;
+height: 50% ;
+width: 100% ;
+}
+img {
+width: 150px ;
+height: 200px ;
+}
+#personel_life_111 {
+background-color: darkseagreen ;
+text-decoration-color: aquamarine ;
+height: 50% ;
+    width: 100% ;}
+#career_111 {
+background-color: darkseagreen ;
+text-decoration-color: aquamarine ;
+height: 50% ;
+width: 100% ;
+}
+.link {
+padding-bottom: 5px ;
+padding-top: 5px ;
+padding-left: 10px ;
+padding-top: 10px ;
+font-family: inherit ;
+font-size: 20px ;
+}
+.link:hover{
+background-color: deepskyblue ;
+}
+.menu {
+list-style: none;
+font-family: monospace ;
+cursor: pointer ;
+position: absolute ;
+}
